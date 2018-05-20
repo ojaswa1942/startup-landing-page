@@ -34,11 +34,12 @@ h1{
 	border-color: #FB8513;
 }
 
-#nav-btn{
+.nav-btn{
 	border-color: #FB7113;
 	color: #FB7113;
+	text-transform: uppercase;
 }
-#nav-btn:hover{
+.nav-btn:hover{
 	background-color: #FB7113;
 	color: #f8f9fa;
 }
