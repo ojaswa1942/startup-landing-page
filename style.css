@@ -1,15 +1,23 @@
 html, body{
 	font-family: 'Ubuntu Condensed', sans-serif;
 	font-size: 1.1em;
+	background-image: url(back.jpg);
+	background-size: cover;
+	background-attachment: fixed;
 }
+.layer{
+	background-color: rgba(0,0,0,0.2);
 
+}
 nav{
 	font-family: 'Dosis', sans-serif;
 }
 .jumbotron{
-
+	background-color: rgba(76,76,76,0.3);
+	color: white;
 }
 
 .about{
 	margin:30px;
+	color: white;
 }
