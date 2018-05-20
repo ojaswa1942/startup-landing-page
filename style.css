@@ -1,0 +1,15 @@
+html, body{
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 1.1em;
+}
+
+nav{
+	font-family: 'Dosis', sans-serif;
+}
+.jumbotron{
+
+}
+
+.about{
+	margin:30px;
+}
