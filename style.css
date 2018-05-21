@@ -34,12 +34,28 @@ h1{
 	border-color: #FB8513;
 }
 
+more:active{
+	background-color: #FB8513;
+	border-color: #FB8513;
+}
+more:focus{
+	background-color: #FB8513;
+	border-color: #FB8513;
+}
 .nav-btn{
 	border-color: #FB7113;
 	color: #FB7113;
 	text-transform: uppercase;
 }
 .nav-btn:hover{
+	background-color: #FB7113;
+	color: #f8f9fa;
+}
+.nav-btn:active{
+	background-color: #FB7113;
+	color: #f8f9fa;
+}
+.nav-btn:focus{
 	background-color: #FB7113;
 	color: #f8f9fa;
 }
